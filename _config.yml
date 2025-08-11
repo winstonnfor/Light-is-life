@@ -26,7 +26,7 @@ repository: "winstonnfor/winstonnfor.github.io"
 # Site Author
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "winston.png"
   name: "Winston Nfor"
   pronouns: # example: "he/him"
   bio: "Nanophotonics researcher specializing in inverse design and metasurfaces. My background combines computational modeling (Python, MATLAB) with hands-on nanofabrication experience from Vanderbilt's NanOptics Lab and the VINSE Cleanroom."
