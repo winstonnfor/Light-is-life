@@ -21,7 +21,7 @@ To complement this, I also serve as a Maintenance and Safety Technician at the V
 I am eager to continue learning as a researcher and hope to find a collaborative environment where I can contribute to meaningful progress at the forefront of photonics"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "winstonnfor/winstonnfor.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -31,7 +31,7 @@ author:
   avatar           : "profile.png"
   name             : "Winston Nfor"
   pronouns         : # example: "Him/he"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Nanophotonics researcher specializing in inverse design and metasurfaces. My background combines computational modeling (Python, MATLAB) with hands-on nanofabrication experience from Vanderbilt's NanOptics Lab and the VINSE Cleanroom"
   location         : "United States"
   employer         : "Vanderbilt Uinversity"
   uri              : # URL
@@ -40,12 +40,12 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : ""
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : ""
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
 
@@ -59,7 +59,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -68,7 +68,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         :"Winston Nfor Kanjo Ndi"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
